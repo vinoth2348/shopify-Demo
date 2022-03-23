@@ -33,7 +33,7 @@
           "slideshow-0": {
             "type": "slide",
             "settings": {
-              "image": "shopify:\/\/shop_images\/images.jpg",
+              "image": "shopify:\/\/shop_images\/laptop-apple-watch-modern.jpg",
               "image_position": "center center",
               "image_overlay": true,
               "image_overlay_opacity": 46,
@@ -182,18 +182,21 @@
           "blocks": {
             "slideshow-0": {
               "type": "slide",
-              "settings": {}
+              "settings": {
+              }
             },
             "slideshow-1": {
               "type": "slide",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
             "slideshow-0",
             "slideshow-1"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "featured-content": {
           "type": "featured-content",
@@ -207,23 +210,28 @@
           "blocks": {
             "featured-collections-0": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "featured-collections-1": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "featured-collections-2": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "featured-collections-3": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "featured-collections-4": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -233,7 +241,8 @@
             "featured-collections-3",
             "featured-collections-4"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "featured-products": {
           "type": "featured-products",
@@ -243,11 +252,13 @@
         },
         "featured-product": {
           "type": "featured-product",
-          "settings": {}
+          "settings": {
+          }
         },
         "newsletter": {
           "type": "newsletter",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "content_for_index": [
@@ -354,7 +365,8 @@
         },
         "newsletter": {
           "type": "newsletter",
-          "settings": {}
+          "settings": {
+          }
         },
         "header": {
           "type": "header",
@@ -417,7 +429,8 @@
           "block_order": [
             "1496078102297-0"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "1496177901425": {
           "type": "advanced-content",
@@ -434,7 +447,8 @@
           "block_order": [
             "1496177901425-0"
           ],
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "content_for_index": [
